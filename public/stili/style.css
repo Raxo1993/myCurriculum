@@ -40,6 +40,9 @@ a{
   text-decoration: none;
 }
 
+.bitpaddingtop{
+  padding-top: 2%;
+}
 .morePaddingTop{
   padding-top: 10%;
 }
