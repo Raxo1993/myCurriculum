@@ -1,6 +1,6 @@
 body {
   margin: 0;
-
+  height: 100vh;
 }
 
 p{
@@ -44,7 +44,11 @@ a{
   padding-top: 2%;
 }
 .morePaddingTop{
-  padding-top: 10%;
+  padding-top: 45%;
+}
+
+.paddingfoot{
+  padding-bottom: 10%;
 }
 .aligner{
   text-align: center;
@@ -104,10 +108,15 @@ padding-left: 65%;
 
 }
 
+.mountainMove{
+  padding-right: 17%;
+}
+
 .bottom-cloud {
-  position: absolute;
-  left: 200px;
-  bottom: 300px;
+  position: relative;
+  padding-bottom: 5%;
+  padding-right: 4%;
+  padding-left: 2%;
 }
 
 
